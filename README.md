@@ -1,5 +1,32 @@
-# 💫 About Me:
-Im working in my personal proyects <br>
+# 💫 About Me
+
+🚀 **Passionate Developer** constantly learning and building innovative solutions<br>
+🔭 Currently working on **personal projects** that challenge my skills and creativity<br>
+🌱 Always exploring new technologies and best practices<br>
+💡 Love turning ideas into functional, user-friendly applications<br>
+🎯 Focused on writing clean, efficient code and continuous improvement<br>
+⚡ **Fun fact:** I believe every bug is just an undiscovered feature waiting to happen!
+
+---
+
+## 🛠️ What I'm Building
+- 🌐 Web applications with modern frameworks
+- 📱 Mobile-responsive designs
+- 🎨 User-centric interfaces
+- 🔧 Development tools and automation scripts
+
+## 🎯 Current Focus
+- 📈 Improving code quality and architecture
+- 🔄 Learning DevOps and deployment strategies  
+- 🤝 Contributing to open source projects
+- 📚 Documenting my journey and sharing knowledge
+
+## 💬 Let's Connect!
+I'm always open to discussing new ideas, collaborating on projects, or just having a good conversation about tech!
+
+---
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 
 # 💻 Tech Stack:
