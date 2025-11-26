@@ -5,7 +5,6 @@
 🌱 Always exploring new technologies and best practices<br>
 💡 Love turning ideas into functional, user-friendly applications<br>
 🎯 Focused on writing clean, efficient code and continuous improvement<br>
-⚡ **Fun fact:** I believe every bug is just an undiscovered feature waiting to happen!
 
 ---
 
@@ -23,11 +22,6 @@
 
 ## 💬 Let's Connect!
 I'm always open to discussing new ideas, collaborating on projects, or just having a good conversation about tech!
-
----
-
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
